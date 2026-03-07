@@ -1,39 +1,70 @@
-# AI Engineer Profile
+# AI Engineer
 
-## Professional Experience
-- **AI Engineer at XYZ Corporation** (2019 - Present)
-  - Developed machine learning models for predictive analytics.
-  - Collaborated with data scientists and software engineers to design and implement AI solutions.
+## Professional Summary
+Results-driven AI Engineer with extensive experience in machine learning, data science, and cloud computing. Proven track record of improving performance metrics and delivering impactful projects in various sectors.
 
-- **Data Scientist at ABC Technologies** (2017 - 2019)
-  - Conducted data analysis and visualization to drive insights in business decisions.
-  - Built and maintained ETL processes for large datasets.
+## Experience
 
-## Projects
-- **Chatbot Development**: Designed a chatbot using natural language processing techniques to enhance customer support.
-- **Image Recognition System**: Created a deep learning model for object detection in images.
+### I2E Consulting
+- Developed innovative solutions to enhance operational efficiency.
 
-## Skills Matrix
-| Skill               | Proficiency Level |
-|---------------------|-------------------|
-| Python              | Advanced          |
-| TensorFlow          | Advanced          |
-| Machine Learning    | Advanced          |
-| Data Visualization   | Intermediate      |
-| SQL                 | Intermediate      |
+### Pfizer
+- Contributed to projects that resulted in a 30% boost in team performance and significant health tech advancements.
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobbanikhil&show_icons=true)
+### Peck School of the Arts UWM
+- Collaborated on interdisciplinary projects focusing on art and technology.
+
+### Capgemini
+- Integrated emerging technologies to drive client success and innovation.
+
+## Featured Projects
+- **YECS:** Implemented credit scoring system with a 41% improvement in accuracy.
+- **Venvt AI:** Developed a real-time virtual environment tool leveraging AI.
+- **Spectrum AI:** Created predictive analytics solutions for market trends.
+- **Computer Vision in E-Commerce:** Enhanced user experiences through AI-driven visual searches.
 
 ## Education
-- **Master of Science in Artificial Intelligence** - University of Technology (2015 - 2017)
-- **Bachelor of Science in Computer Science** - College of Engineering (2011 - 2015)
+- **University of Wisconsin-Milwaukee**
+  - GPA: 3.9/4.0
 
-## Strategic Roadmap
-1. **Short-Term Goals (1 year)**
-   - Enhance skills in deep learning frameworks.
-   - Contribute to open-source AI projects.
+## Technical Skills
+- **Python:** 100%
+- **Machine Learning:** 90%
+- **Data Science:** 85%
+- **Cloud:** 80%
 
-2. **Long-Term Goals (3-5 years)**
-   - Lead AI projects in a managerial role.
-   - Publish research on machine learning advancements.
+## Technology Stack
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Containerization:** Docker
+- **Cloud Services:** AWS, Azure
+- **Orchestration:** Kubernetes
+- **Databases:** PostgreSQL, MongoDB
+
+## Contact Information
+- **Email:** bobbanikhil@gmail.com
+- **Phone:** 262-566-9868
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vaasu-nikhil-bobba-98324312b/)
+- **GitHub:** [GitHub Profile](https://github.com/bobbanikhil)
+
+## Dynamic GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobbanikhil&show_icons=true)
+
+## Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=bobbanikhil)
+
+## Achievement Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=bobbanikhil)
+
+## 2026 Strategic Roadmap
+- **Q1:** Gain expertise in advanced NLP.
+- **Q2:** Work on cloud-native applications.
+- **Q3:** Implement neural network optimization strategies.
+- **Q4:** Lead a team project to develop a comprehensive AI solution.
+
+## Engineering Philosophy
+Aiming for innovation through collaboration, and maintaining a commitment to continuous improvement.
+
+## Impact Metrics
+- **YECS Credit Scoring Improvement:** 41%
+- **Risk Reduction at Pfizer:** 38%
+- **Events Coordinated:** 150+

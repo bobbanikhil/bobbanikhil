@@ -1,70 +1,109 @@
-# AI Engineer
+<h1 align="center">🤖 VAASU NIKHIL BOBBA</h1>
+<p align="center">
+  <a href="mailto:bobbanikhil@gmail.com">bobbanikhil@gmail.com</a> &nbsp;|&nbsp;
+  262-566-9868 &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/vaasu-nikhil-bobba-98324312b/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/bobbanikhil">GitHub</a>
+</p>
 
-## Professional Summary
-Results-driven AI Engineer with extensive experience in machine learning, data science, and cloud computing. Proven track record of improving performance metrics and delivering impactful projects in various sectors.
+---
 
-## Experience
+<div align="center">
 
-### I2E Consulting
-- Developed innovative solutions to enhance operational efficiency.
+<!-- DYNAMIC VISUALS SECTION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=53F3FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Science+%7C+Cloud+Master+%7C+UWM+MSITM;Creating+Impact+Through+Intelligence+and+Innovation" alt="Typing SVG" />
 
-### Pfizer
-- Contributed to projects that resulted in a 30% boost in team performance and significant health tech advancements.
+<br/>
 
-### Peck School of the Arts UWM
-- Collaborated on interdisciplinary projects focusing on art and technology.
+<!-- GITHUB STATS (Dynamic, Live) -->
+<img src="https://github-readme-stats.vercel.app/api?username=bobbanikhil&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-### Capgemini
-- Integrated emerging technologies to drive client success and innovation.
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbanikhil&theme=radical" alt="GitHub Streak" />
 
-## Featured Projects
-- **YECS:** Implemented credit scoring system with a 41% improvement in accuracy.
-- **Venvt AI:** Developed a real-time virtual environment tool leveraging AI.
-- **Spectrum AI:** Created predictive analytics solutions for market trends.
-- **Computer Vision in E-Commerce:** Enhanced user experiences through AI-driven visual searches.
+<!-- DONUT LANGS -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbanikhil&layout=donut&theme=radical" alt="Top Langs" />
 
-## Education
-- **University of Wisconsin-Milwaukee**
-  - GPA: 3.9/4.0
+<!-- PROFILE TROPHY -->
+<img src="https://github-profile-trophy.vercel.app/?username=bobbanikhil&theme=radical&no-frame=true&column=7" alt="Trophies" />
 
-## Technical Skills
-- **Python:** 100%
-- **Machine Learning:** 90%
-- **Data Science:** 85%
-- **Cloud:** 80%
+<!-- ACTIVITY CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bobbanikhil&theme=radical" alt="Contribution Graph" />
 
-## Technology Stack
-- **Frameworks:** TensorFlow, PyTorch, Scikit-learn
-- **Containerization:** Docker
-- **Cloud Services:** AWS, Azure
-- **Orchestration:** Kubernetes
-- **Databases:** PostgreSQL, MongoDB
+<!-- ADVANCED METRICS SVG, Customizable -->
+<!-- <img src="https://metrics.lecoq.io/bobbanikhil?template=classic&languages=1&isocalendar=1..." alt="Metrics" /> -->
+</div>
 
-## Contact Information
-- **Email:** bobbanikhil@gmail.com
-- **Phone:** 262-566-9868
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vaasu-nikhil-bobba-98324312b/)
-- **GitHub:** [GitHub Profile](https://github.com/bobbanikhil)
+---
 
-## Dynamic GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobbanikhil&show_icons=true)
+## 🏅 Experience & Impact
 
-## Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=bobbanikhil)
+| Company         | Role               | Achievement                                       |
+|-----------------|--------------------|---------------------------------------------------|
+| I2E Consulting  | AI Engineer        | Automated LLM content creation, enterprise AI ops |
+| Pfizer          | QA Tester          | +30% team perf, advanced health AI & reporting    |
+| UWM (Peck SoA)  | Event Manager      | Managed 150+ technical/cultural events            |
+| Capgemini       | Software/Data Engr | Drove innovation w/ full-stack & cloud solutions  |
 
-## Achievement Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=bobbanikhil)
+---
 
-## 2026 Strategic Roadmap
-- **Q1:** Gain expertise in advanced NLP.
-- **Q2:** Work on cloud-native applications.
-- **Q3:** Implement neural network optimization strategies.
-- **Q4:** Lead a team project to develop a comprehensive AI solution.
+## 🚀 Featured Projects
+- **YECS**: AI credit scoring (+41% accuracy), Flask/React/Gemini Pro ([repo](https://github.com/bobbanikhil/YECS))
+- **Venvt AI**: Real-time virtual agent, TensorFlow/Python ([repo](https://github.com/bobbanikhil/Venvt-AI))
+- **Spectrum AI**: Predictive analytics for trends ([repo](https://github.com/bobbanikhil/Spectrum-AI))
+- **Computer Vision E-Commerce**: Visual search w/ DL ([repo](https://github.com/bobbanikhil/Computer-Vision-in-Field-of-E-Commerce))
 
-## Engineering Philosophy
-Aiming for innovation through collaboration, and maintaining a commitment to continuous improvement.
+<div align="center">
 
-## Impact Metrics
-- **YECS Credit Scoring Improvement:** 41%
-- **Risk Reduction at Pfizer:** 38%
-- **Events Coordinated:** 150+
+<!-- PINNED PROJECT CARDS -->
+<a href="https://github.com/bobbanikhil/YECS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbanikhil&repo=YECS&theme=radical" /></a>
+<a href="https://github.com/bobbanikhil/Venvt-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbanikhil&repo=Venvt-AI&theme=radical" /></a>
+<a href="https://github.com/bobbanikhil/Spectrum-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbanikhil&repo=Spectrum-AI&theme=radical" /></a>
+
+</div>
+
+---
+
+## 🛠️ Advanced Skills & Tech
+
+### ⚡ AI, Data, Cloud, and Dev
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `pandas` `NumPy` `R`<br>
+`Docker` `Kubernetes` `AWS` `Azure` `Snowflake`<br>
+`Tableau` `Power BI` `matplotlib` `Plotly`<br>
+`PostgreSQL` `MongoDB` `MySQL` `n8n`
+
+---
+
+## 📈 Achievements
+- 🏆 Azure AI Hackathon Winner
+- 🚀 41% credit scoring improvement (YECS)
+- 👥 150+ events managed (UWM)
+- 📈 30% process gain at Pfizer
+
+---
+
+## 🎓 Education
+**University of Wisconsin-Milwaukee**  
+MSITM – AI & Data Analytics, GPA 3.9/4.0
+
+---
+
+## 🗓 2026 Roadmap
+- Q1: Master advanced NLP
+- Q2: Cloud-native AI apps
+- Q3: Optimize deep neural nets
+- Q4: Lead AI product team
+
+---
+
+## 📱 Connect
+📧 bobbanikhil@gmail.com &nbsp;|&nbsp; 📞 262-566-9868 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/vaasu-nikhil-bobba-98324312b/) &nbsp;|&nbsp; [GitHub](https://github.com/bobbanikhil)
+
+---
+
+<div align="center">
+If you like my work, star my repos!  
+Open to collab, consulting, technical mentoring, and AI product brainstorming.  
+<br/>
+<b>Let's create the future of AI together 🚀</b>
+</div>

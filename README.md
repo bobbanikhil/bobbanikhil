@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- DYNAMIC VISUALS SECTION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=53F3FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Science+%7C+Cloud+Master+%7C+UWM+MSITM;Creating+Impact+Through+Intelligence+and+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=53F3FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Science+Analysis+Visualization%7C+;Creating+Impact+Through+Intelligence+and+Innovation" alt="Typing SVG" />
 
 <br/>
 

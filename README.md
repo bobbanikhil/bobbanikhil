@@ -96,7 +96,7 @@ MSITM – AI & Data Analytics, GPA 3.9/4.0
 ---
 
 ## 📱 Connect
-📧 bobbanikhil@gmail.com &nbsp;|&nbsp; 📞 262-566-9868 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/vaasu-nikhil-bobba-98324312b/) &nbsp;|&nbsp; [GitHub](https://github.com/bobbanikhil)
+📧 bobbanikhil@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/vaasu-nikhil-bobba-98324312b/) &nbsp;|&nbsp; [GitHub](https://github.com/bobbanikhil)
 
 ---
 

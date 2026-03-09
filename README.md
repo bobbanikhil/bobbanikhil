@@ -1,7 +1,6 @@
 <h1 align="center">🤖 VAASU NIKHIL BOBBA</h1>
 <p align="center">
   <a href="mailto:bobbanikhil@gmail.com">bobbanikhil@gmail.com</a> &nbsp;|&nbsp;
-  262-566-9868 &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/vaasu-nikhil-bobba-98324312b/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/bobbanikhil">GitHub</a>
 </p>
